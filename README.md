@@ -44,4 +44,4 @@ All 12 queries are in [`pizzahut_sql_workbook.sql`](./pizzahut_sql_workbook.sql)
 
 ## Author
 
-**Pratyush Kr. Singh**
+**Pratyush Kumar Singh**
